@@ -1,0 +1,281 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cairo Classic Leather Tote",
+      "category": "Handbags",
+      "price": 14000,
+      "originalPrice": 17500,
+      "rating": 4.9,
+      "reviews": 1240,
+      "tag": "BESTSELLER",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80"
+      ],
+      "description": "Premium full-grain Egyptian calf leather tote bag, hand-burnished by master artisans in Cairo. Features a spacious interior lined with premium Egyptian cotton sateen.",
+      "specs": [
+        { "key": "Material", "value": "Egyptian Calf Leather" },
+        { "key": "Dimensions", "value": "15\"W x 11\"H x 6\"D" },
+        { "key": "Lining", "value": "Premium Egyptian Cotton" },
+        { "key": "Handcrafted", "value": "Zamalek Atelier, Cairo" }
+      ],
+      "popularity": 99,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Zamalek Minimalist Crossbody",
+      "category": "Handbags",
+      "price": 9250,
+      "originalPrice": 11000,
+      "rating": 4.8,
+      "reviews": 850,
+      "tag": "NEW",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80"
+      ],
+      "description": "Sleek and compact crossbody bag perfect for traversing the high-end galleries of Zamalek. Features a gold-gilded adjustable chain and custom brass magnetic closure.",
+      "specs": [
+        { "key": "Material", "value": "Full-Grain Gilded Leather" },
+        { "key": "Dimensions", "value": "8\"W x 6\"H x 2.5\"D" },
+        { "key": "Strap Drop", "value": "20\" - 24\"" }
+      ],
+      "popularity": 92,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Siwa Oversized Aviators",
+      "category": "Sunglasses",
+      "price": 7250,
+      "originalPrice": 9000,
+      "rating": 4.7,
+      "reviews": 640,
+      "tag": "SALE",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=80"
+      ],
+      "description": "Oversized luxury aviator sunglasses designed to withstand the brilliant glare of the Siwa Oasis sun. Offers 100% UV400 polarized gold-mirrored protection.",
+      "specs": [
+        { "key": "Frame", "value": "Gold-Plated Metal Alloy" },
+        { "key": "Lenses", "value": "Polarized UV400 Gold" },
+        { "key": "Fit", "value": "Oversized Unisex" }
+      ],
+      "popularity": 88,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Nubian Slim Cardholder",
+      "category": "Wallets",
+      "price": 3250,
+      "originalPrice": 4250,
+      "rating": 4.9,
+      "reviews": 2100,
+      "tag": "",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=80"
+      ],
+      "description": "Ultra-slim luxury cardholder inspired by traditional Nubian geometry, crafted from fine saffiano leather. Features 4 card slots and a lined center compartment.",
+      "specs": [
+        { "key": "Material", "value": "Saffiano Calf Leather" },
+        { "key": "Dimensions", "value": "4\"W x 3\"H" },
+        { "key": "Origin", "value": "Handmade in Aswan" }
+      ],
+      "popularity": 95,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Giza Canvas Travel Bag",
+      "category": "Backpacks",
+      "price": 10500,
+      "originalPrice": 13000,
+      "rating": 4.8,
+      "reviews": 430,
+      "tag": "ALMOST SOLD OUT",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+      ],
+      "description": "Heavy-duty waxed canvas weekender bag with vegetable-tanned leather accents. Built for grand desert expeditions and luxury weekend travel.",
+      "specs": [
+        { "key": "Material", "value": "Waxed Canvas & Giza Leather" },
+        { "key": "Dimensions", "value": "20\"W x 12\"H x 10\"D" },
+        { "key": "Hardware", "value": "Antique Brass" }
+      ],
+      "popularity": 85,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Pharaoh Gilded Belt",
+      "category": "Accessories",
+      "price": 6000,
+      "originalPrice": 7500,
+      "rating": 4.8,
+      "reviews": 450,
+      "tag": "",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=800&q=80"
+      ],
+      "description": "Exquisite Egyptian leather belt featuring a custom-carved brushed brass buckle reminiscent of ancient royal insignia. Elegant, durable, and highly versatile.",
+      "specs": [
+        { "key": "Material", "value": "Premium Egyptian Leather" },
+        { "key": "Buckle", "value": "Solid Brushed Brass" },
+        { "key": "Width", "value": "1.5\"" }
+      ],
+      "popularity": 75,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Kemet Quilted Shoulder Bag",
+      "category": "Handbags",
+      "price": 22500,
+      "originalPrice": 27500,
+      "rating": 4.9,
+      "reviews": 1420,
+      "tag": "TRENDING",
+      "color": "#111",
+      "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&q=80"],
+      "description": "An unmatched luxury icon. Quilted lambskin leather shoulder bag with a hand-woven gold chain strap, inspired by royal geometric lineage.",
+      "specs": [
+        { "key": "Material", "value": "Ultra-soft Lambskin" },
+        { "key": "Dimensions", "value": "10\"W x 6\"H x 3\"D" },
+        { "key": "Hardware", "value": "24k Gold-tone Plated" }
+      ],
+      "popularity": 96,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Alexandria Cat-Eye Sunglasses",
+      "category": "Sunglasses",
+      "price": 6250,
+      "originalPrice": 8000,
+      "rating": 4.7,
+      "reviews": 890,
+      "tag": "",
+      "color": "#8b4513",
+      "image": "https://images.unsplash.com/photo-1508296695146-257a814070b4?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1508296695146-257a814070b4?w=800&q=80"],
+      "description": "Stunning cat-eye sunglasses capturing the maritime luxury of Alexandria. Premium tortoiseshell acetate with dark amber gradient protective lenses.",
+      "specs": [
+        { "key": "Frame", "value": "Polished Amber Acetate" },
+        { "key": "Lenses", "value": "CR-39 UV400 Protection" },
+        { "key": "Style", "value": "Classic Coastal Chic" }
+      ],
+      "popularity": 89,
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Suez Zip-Around Wallet",
+      "category": "Wallets",
+      "price": 5500,
+      "originalPrice": 6750,
+      "rating": 4.8,
+      "reviews": 560,
+      "tag": "NEW",
+      "color": "#000",
+      "image": "https://images.unsplash.com/photo-1605733513597-a8f8341084e6?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1605733513597-a8f8341084e6?w=800&q=80"],
+      "description": "Secure pebbled leather continental wallet, perfect for international travelers. Hosts 12 card slots, coin compartment, and solid brass detailing.",
+      "specs": [
+        { "key": "Material", "value": "Pebbled Calfskin" },
+        { "key": "Dimensions", "value": "8\"W x 4\"H x 1\"D" },
+        { "key": "Hardware", "value": "Solid Brushed Brass" }
+      ],
+      "popularity": 82,
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Nile Urban Leather Backpack",
+      "category": "Backpacks",
+      "price": 12250,
+      "originalPrice": 14750,
+      "rating": 4.9,
+      "reviews": 1020,
+      "tag": "BESTSELLER",
+      "color": "#1a1a1a",
+      "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800&q=80"],
+      "description": "Sophisticated full-grain leather backpack tailored for the modern Cairo executive. Includes reinforced laptop protection and hand-stitched leather panels.",
+      "specs": [
+        { "key": "Material", "value": "Premium Nile Leather" },
+        { "key": "Dimensions", "value": "16\"H x 12\"W x 6\"D" },
+        { "key": "Capacity", "value": "Fits 15\" Laptop" }
+      ],
+      "popularity": 97,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 11,
+      "name": "Luxor Cashmere Blend Scarf",
+      "category": "Accessories",
+      "price": 4250,
+      "originalPrice": 5500,
+      "rating": 4.7,
+      "reviews": 340,
+      "tag": "SALE",
+      "color": "#d2b48c",
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=800&q=80"],
+      "description": "Whisper-soft wool and premium cashmere blend scarf inspired by the warm hues of Luxor temple limestone. Finished with elegant hand-tied fringes.",
+      "specs": [
+        { "key": "Material", "value": "70% Wool, 30% Cashmere" },
+        { "key": "Dimensions", "value": "72\" x 12\"" },
+        { "key": "Colorway", "value": "Luxor Limestone Gold" }
+      ],
+      "popularity": 78,
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Sahel Woven Straw Beach Tote",
+      "category": "Handbags",
+      "price": 6750,
+      "originalPrice": 8000,
+      "rating": 4.6,
+      "reviews": 210,
+      "tag": "SEASONAL",
+      "color": "#f5deb3",
+      "image": "https://images.unsplash.com/photo-1614179689702-355944cd0918?w=600&q=80",
+      "images": ["https://images.unsplash.com/photo-1614179689702-355944cd0918?w=800&q=80"],
+      "description": "Hand-plaited coastal straw beach bag with robust genuine leather handles. Built to carry summer essentials to the exclusive shores of Egypt's North Coast.",
+      "specs": [
+        { "key": "Material", "value": "Coastal Straw & Egyptian Leather" },
+        { "key": "Dimensions", "value": "18\"W x 14\"H x 7\"D" },
+        { "key": "Lining", "value": "Premium Egyptian Cotton Canvas" }
+      ],
+      "popularity": 85,
+      "inStock": true,
+      "featured": true
+    }
+  ]
+}
